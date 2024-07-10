@@ -31,6 +31,7 @@ project-root/
     
     Once the image is built, you can run the Docker container:
 
+    ```bash
     docker run -p 5001:5001 your-app-name
 
     Replace 5001:5001 with the appropriate port mapping if you have adjusted it in __init__.py
