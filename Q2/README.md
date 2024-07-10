@@ -33,9 +33,10 @@ project-root/
 
     ```bash
     docker run -p 5001:5001 your-app-name
+    ```
 
     Replace 5001:5001 with the appropriate port mapping if you have adjusted it in __init__.py
-s
+
 3. **Access Application:**
 
     By default, you can access the application at http://localhost:5001.
